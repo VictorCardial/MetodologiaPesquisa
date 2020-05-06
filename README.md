@@ -7,7 +7,7 @@ Professor da Disciplina: Giuliano Bertoti
 
  
 
-Aluno: nome e ra
+Aluno: Victor Cardial de Menezes Pereira  RA:1460281823048
 
  
 
