@@ -83,6 +83,7 @@ Mapear juntamente a estes profissionais os problemas e dificuldades encontrados 
 4.	Referências:
 Como tecnologias vem auxiliando no trabalho. Disponível em:
 https://blog.leucotron.com.br/como-a-tecnologia-auxilia-na-melhora-da-produtividade-no-trabalho/. Acessado em junho de 2020.
+
 Tecnologias aplicadas no setor de compras. Disponível em:
 https://blog.contabilista.com.br/como-a-tecnologia-impacta-o-setor-de-compras-de-uma-empresa.html. Acessado em junho de 2020.
 
