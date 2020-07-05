@@ -100,14 +100,19 @@ Dificuldade por parte de profissionais da área de Compras de uma determinada em
 2.	Motivação: 
 
 A importância estratégica do setor de Compras das empresas vem crescendo. Suas operações relacionam-se diretamente com o aumento ou diminuição da lucratividade da organização.
+
 Tendo isto em mente, a motivação se encontra na oportunidade de podermos extrair através da tecnologia um ambiente profissional eficiente e facilitado, aumentando a produtividade dos indivíduos no trabalho.
+
 Segundo Yongchun Wu, Zhenjian Jiang e Na Han (2010), o gerenciamento da Cadeia de Suprimentos (setor de compras) de uma empresa é um ponto importante no aspecto da globalização e concorrência econômica no qual empresas devem se atentar.
 
 3.	Proposta de Solução:
 
 Mapear juntamente a estes profissionais os problemas e dificuldades encontrados em sua rotina de trabalho, para então ser capaz de levantar os requisitos para a elaboração de uma solução que satisfaça suas angustias e os auxilie em suas respectivas rotinas.
+
  Em termos gerais, a solução se dará por intermédio de um sistema integrado que irá agrupar fornecedores em nichos específicos conforme uma necessidade do setor de Compras dessa empresa. O sistema também deverá conter métricas e parâmetros que irão auxiliar tais profissionais no dimensionamento de recursos viabilizando e tornando mais ágeis as tarefas do setor.
+ 
 Sistemas Integrados podem viabilizar a comunicação interna entre setores da empresa, garantindo integridade e confiabilidade das informações uma vez que são desenvolvidos a partir da uma análise sobre os problemas em geral na cadeia de suprimentos.
+
 Este tipo de sistema, auxilia também nos processos de gestão, pois levam em consideração informações concisas, nas quais pode-se aplicar análises de resultados que irão ajudar nas tomadas de decisões, tornando-as mais assertivas, evitando erros e retrabalho, possíveis prejuízos para a empresa, agilizando a execução das rotinas, ajudando o profissional a ter melhor performance e desempenho na execução de seu trabalho. 
 
 
