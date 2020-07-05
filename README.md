@@ -121,5 +121,6 @@ https://blog.contabilista.com.br/como-a-tecnologia-impacta-o-setor-de-compras-de
 
 O design e implementação de um Sistema Integrado de Gerenciamento da Cadeia de Suprimentos com base nas tecnologias UML e J2EE. Disponível em:
 https://ieeexplore.ieee.org/document/5461188/citations#citations. Acessado em julho de 2020.
+
 Y. Wu, Z. Jiang and N. Han, "The design and implementation of the Integrated Supply Chain Management System based on UML and J2EE technology," 2010 International Conference on Logistics Systems and Intelligent Management (ICLSIM), Harbin, 2010, pp. 1361-1365, doi: 10.1109/ICLSIM.2010.5461188.
 
